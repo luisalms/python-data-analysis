@@ -1,6 +1,6 @@
 ## Análise de Dados com Python -- Introdução
 
-Documentação bibliotecas:
+Documentação das bibliotecas:
 
 <ul>
   <li><a href="https://numpy.org/doc/stable/user/absolute_beginners.html">NumPy</a></li>
